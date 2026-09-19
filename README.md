@@ -1,16 +1,15 @@
-## Hi there 👋
+# Jack Snyder
 
-<!--
-**zquify/zquify** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Nebraska–Lincoln.
 
-Here are some ideas to get you started:
+### Currently
+- Building multiplayer games in Godot
+- Learning C and Java
+- Interested in software development, multiplayer networking, and 3D programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- **[Orbit](https://github.com/zquify/orbit)** — Multiplayer FPS prototype with custom planetary gravity
+- **[Ant Up!](https://github.com/zquify/Ant-Up)** — Cooperative multiplayer game using Steam P2P (on hold)
+
+### Technologies
+C | Java | GDScript | JavaScript | Godot | Unity | Blender | Git
